@@ -1,5 +1,7 @@
 # braintumordetectionsystem
 An intelligent method for detecting and classifying brain diseases such as tumors and normal brain imaging.
+
+
 **Abstract:** 
 The brain is the most important organ in our body, as it regulates the rest of our organs. Brain disorders have been recognized as the world's second leading cause of mortality. If they are not detected early and treated appropriately. Early discovery and diagnosis of the tumor may aid and save the patient's life.Advances in technology and biology are increasing the early identification, categorization, surgical treatment, and medical care of a wide spectrum of human illnesses. We built an intelligent method for detecting and classifying brain diseases such as tumors, and normal brain imaging. In addition, to improve treatment procedures and patient care, we have been trying to increase the quality and sensitivity of imaging in the early diagnosis of illnesses ranging to brain tumors disease.
 
