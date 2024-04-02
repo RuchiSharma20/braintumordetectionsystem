@@ -6,7 +6,7 @@ An intelligent method for detecting and classifying brain diseases such as tumor
 The brain is the most important organ in our body, as it regulates the rest of our organs. Brain disorders have been recognized as the world's second leading cause of mortality. If they are not detected early and treated appropriately. Early discovery and diagnosis of the tumor may aid and save the patient's life.Advances in technology and biology are increasing the early identification, categorization, surgical treatment, and medical care of a wide spectrum of human illnesses. We built an intelligent method for detecting and classifying brain diseases such as tumors, and normal brain imaging. In addition, to improve treatment procedures and patient care, we have been trying to increase the quality and sensitivity of imaging in the early diagnosis of illnesses ranging to brain tumors disease.
 
 
-<b>Introduction<b> 
+Introduction 
 The need for a tumor detection program, thus, overcomes the lack of qualified radiologists. Brain tumour detection and localization are made simpler by biomedical image processing using magnetic resonance imaging. This work used pictures from the MRI sequence as an input image to construct a segmentation and detection approach for brain tumours, identifying the tumour region. The enormous range of tumour tissues present in the presence of various patients makes this procedure challenging, and in most situations, the similarity among normal tissues makes the work challenging. The major objective is to identify if the brain has a brain tumour or is healthy.
 To enhance performance and streamline the segmentation of medical images, the suggested method is built on a deep learning classifier using CNN model.
 
